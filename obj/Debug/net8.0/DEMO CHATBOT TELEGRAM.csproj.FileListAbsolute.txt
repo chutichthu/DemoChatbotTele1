@@ -1,0 +1,24 @@
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\DEMO CHATBOT TELEGRAM.exe
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\DEMO CHATBOT TELEGRAM.deps.json
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\DEMO CHATBOT TELEGRAM.runtimeconfig.json
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\DEMO CHATBOT TELEGRAM.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\DEMO CHATBOT TELEGRAM.pdb
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\DEMO CHATBOT TELEGRAM.csproj.AssemblyReference.cache
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\DEMO CHATBOT TELEGRAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\DEMO CHATBOT TELEGRAM.AssemblyInfoInputs.cache
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\DEMO CHATBOT TELEGRAM.AssemblyInfo.cs
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\DEMO CHATBOT TELEGRAM.csproj.CoreCompileInputs.cache
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\DEMO CHA.5718103C.Up2Date
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\DEMO CHATBOT TELEGRAM.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\refint\DEMO CHATBOT TELEGRAM.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\DEMO CHATBOT TELEGRAM.pdb
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\DEMO CHATBOT TELEGRAM.genruntimeconfig.cache
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\obj\Debug\net8.0\ref\DEMO CHATBOT TELEGRAM.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\stnam\Desktop\LE HUU THU\DEMO CHATBOT TELEGRAM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
