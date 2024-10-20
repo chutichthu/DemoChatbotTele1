@@ -58,8 +58,7 @@ public class PrivateChatBot
         if (update.Type == UpdateType.Message && update.Message is { } message)
         {
             var pollAnswer = update.PollAnswer;
-            await HandlePollResponse(botClient, pollAnswer);
-
+            
             // Kiểm tra loại chat là riêng tư
             if (message.Chat.Type == ChatType.Private)
                 {
@@ -230,10 +229,12 @@ public class PrivateChatBot
 
         var options = new[] { "Hài lòng", "Không hài lòng" };
         await botClient.SendPollAsync(chatId, "Bạn có hài lòng với thông tin không?", options);
-     
+
+       // await botClient.StopPollAsync(botClient, chatId);
+
     }
 
-
+      // https: //gist.github.com/Muaath5/22d39734ac0bc5b9f9ad6b66a97e064c
     private async Task HandlePollResponse(ITelegramBotClient botClient, PollAnswer pollAnswer)
     {
         

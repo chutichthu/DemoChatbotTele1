@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DEMO CHATBOT TELEGRAM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+836054cd33ff418c134c20d7ecc66bddd44811b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("DEMO CHATBOT TELEGRAM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DEMO CHATBOT TELEGRAM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

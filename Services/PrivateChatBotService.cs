@@ -207,21 +207,6 @@ namespace DEMO_CHATBOT_TELEGRAM.Services
         }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         // Menu Travel
         public async Task HandleTravelToVietnam(ITelegramBotClient botClient, long chatId)
            => await SendResponse(botClient, chatId, "You selected Travel to VietNam.", TravelToVietNamMenu());
